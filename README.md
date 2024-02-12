@@ -17,7 +17,7 @@ STEPS TO USE THE API:
    - Copy the object id of the product you want to delete. add the id after localhost:3000/api/remove/:id
    - Make a DELETE request.
    - You will recieve a message saying deleted successfully.
-9. STEPS TO UPDATE THE QUANTITY OF A PRODUCT:
+9. STEPS TO UPDATE THE PRODUCT:
    - Copy the object id of the product whose quantity you want to update
    - Put the id at localhost:3000/api/remove/:id
    - Body tab below the url textarea and then select x-www-form-urlencoded
